@@ -23,7 +23,7 @@ st.set_page_config(
 
 with st.sidebar: 
 
-    st.image('images/rigth_logo.png', width=100) 
+    st.image('rigth_logo.png', width=100) 
 
     st.title('请选择页面')
 
@@ -45,7 +45,7 @@ if page =="简介页面":
 
     st.header('三种企鹅的卡通图像') 
 
-    st.image ('images/penguins.png') 
+    st.image ('penguins.png') 
 
 elif page =="预测分类页面": 
 
